@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Yikang\'s Wiki and Blog Site',
-  tagline: 'Into a Sea of Thoughts',
+  title: 'Into a Sea of Thoughts',
+  tagline: 'Yikang\'s Wiki and Blog Site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
